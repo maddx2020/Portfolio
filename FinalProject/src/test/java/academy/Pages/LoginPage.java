@@ -33,8 +33,8 @@ public class LoginPage extends BasePage {
     }
 
     public void fillCredential() {
-        $(LOGIN_FIELD).should(Condition.visible).setValue("selenium_chrome");
-        $(PASSWORD_FIELD).should(Condition.visible).setValue("Staging@Axa");
+        $(LOGIN_FIELD).should(Condition.visible).setValue("***");
+        $(PASSWORD_FIELD).should(Condition.visible).setValue("***");
         $(SUBMIT).click();
     }
 
