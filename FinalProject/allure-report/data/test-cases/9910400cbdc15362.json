@@ -1,0 +1,55 @@
+{
+  "uid" : "9910400cbdc15362",
+  "name" : "Hard Api Test",
+  "fullName" : "academy.Tests.SummaryApiTest.testApiDataEqualsWebData",
+  "historyId" : "f20a517c221ddfed97f03d8188cc75a8",
+  "time" : {
+    "start" : 1606107678494,
+    "stop" : 1606107679480,
+    "duration" : 986
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "4100@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.SummaryApiTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.SummaryApiTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testApiDataEqualsWebData"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.SummaryApiTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9910400cbdc15362.json",
+  "parameterValues" : [ ]
+}

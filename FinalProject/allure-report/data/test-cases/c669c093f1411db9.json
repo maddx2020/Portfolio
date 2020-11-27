@@ -1,0 +1,80 @@
+{
+  "uid" : "c669c093f1411db9",
+  "name" : "testColumnDisappearFiltersButton()",
+  "fullName" : "academy.Tests.GridFilterTest.testColumnDisappearFiltersButton",
+  "historyId" : "cb3e35f40e59bab55f77354bdf383d42",
+  "time" : {
+    "start" : 1606105571434,
+    "stop" : 1606105581488,
+    "duration" : 10054
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "9188@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.GridFilterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.GridFilterTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testColumnDisappearFiltersButton"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.GridFilterTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed tests",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "73a4d482ef798c81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606105571434,
+          "stop" : 1606105581488,
+          "duration" : 10054
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c669c093f1411db9.json",
+  "parameterValues" : [ ]
+}

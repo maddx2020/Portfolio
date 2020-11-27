@@ -1,0 +1,80 @@
+{
+  "uid" : "4eabaf68c39b76a",
+  "name" : "testColumnAppearColumnFilter()",
+  "fullName" : "academy.Tests.GridFilterTest.testColumnAppearColumnFilter",
+  "historyId" : "71a40d461ded95463b32f2f4f5ec5c9f",
+  "time" : {
+    "start" : 1606105581494,
+    "stop" : 1606105587229,
+    "duration" : 5735
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "9188@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.GridFilterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.GridFilterTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testColumnAppearColumnFilter"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.GridFilterTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed tests",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "da01203df248d557",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606105581494,
+          "stop" : 1606105587229,
+          "duration" : 5735
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4eabaf68c39b76a.json",
+  "parameterValues" : [ ]
+}

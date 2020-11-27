@@ -1,0 +1,80 @@
+{
+  "uid" : "4f47a7b68b85d061",
+  "name" : "2 bar",
+  "fullName" : "academy.Tests.HistogramTest.testToolTipPresent",
+  "historyId" : "bc8036fbb2a8a434da6c8d08b5940998",
+  "time" : {
+    "start" : 1606105639968,
+    "stop" : 1606105640186,
+    "duration" : 218
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "9188@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.HistogramTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.HistogramTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testToolTipPresent"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.HistogramTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed tests",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9b5086a73b4244bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606105639968,
+          "stop" : 1606105640186,
+          "duration" : 218
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4f47a7b68b85d061.json",
+  "parameterValues" : [ ]
+}

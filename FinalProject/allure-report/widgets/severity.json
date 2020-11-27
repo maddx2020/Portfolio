@@ -1,0 +1,881 @@
+[ {
+  "uid" : "4f47a7b68b85d061",
+  "name" : "2 bar",
+  "time" : {
+    "start" : 1606105639968,
+    "stop" : 1606105640186,
+    "duration" : 218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5777528e2ff5caba",
+  "name" : "[13] Sequence number",
+  "time" : {
+    "start" : 1606106032305,
+    "stop" : 1606106041640,
+    "duration" : 9335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "404dade6bea94093",
+  "name" : "[7] Information ratio",
+  "time" : {
+    "start" : 1606105975571,
+    "stop" : 1606105985229,
+    "duration" : 9658
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee8fa575d4517de2",
+  "name" : "[13] Sequence number",
+  "time" : {
+    "start" : 1606105890255,
+    "stop" : 1606105895029,
+    "duration" : 4774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0dbd427edb4b5d3",
+  "name" : "[7] Information ratio",
+  "time" : {
+    "start" : 1606105860813,
+    "stop" : 1606105865994,
+    "duration" : 5181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21858e95879f8119",
+  "name" : "testColumnDisappearColumnsButton()",
+  "time" : {
+    "start" : 1606105592812,
+    "stop" : 1606105602805,
+    "duration" : 9993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c330b968bbf6213",
+  "name" : "[16] Price imp. (ticks)",
+  "time" : {
+    "start" : 1606105726433,
+    "stop" : 1606105731231,
+    "duration" : 4798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec104cb04cb9351b",
+  "name" : "5 bar",
+  "time" : {
+    "start" : 1606105640658,
+    "stop" : 1606105640877,
+    "duration" : 219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6da2acac39736bb",
+  "name" : "[2] Start time",
+  "time" : {
+    "start" : 1606105612314,
+    "stop" : 1606105619351,
+    "duration" : 7037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bf216feca7a9a67",
+  "name" : "[14] Db sequence number",
+  "time" : {
+    "start" : 1606105805730,
+    "stop" : 1606105810912,
+    "duration" : 5182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52604c8595eef656",
+  "name" : "[10] Multiplier",
+  "time" : {
+    "start" : 1606106004269,
+    "stop" : 1606106013629,
+    "duration" : 9360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7882d61e742502df",
+  "name" : "[2] Exec size",
+  "time" : {
+    "start" : 1606105835637,
+    "stop" : 1606105840816,
+    "duration" : 5179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9f406e3678743cc",
+  "name" : "[1] Type",
+  "time" : {
+    "start" : 1606105604719,
+    "stop" : 1606105612307,
+    "duration" : 7588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15550864d73e10c4",
+  "name" : "[4] Price",
+  "time" : {
+    "start" : 1606105667270,
+    "stop" : 1606105672014,
+    "duration" : 4744
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c85e3866f1fe9c37",
+  "name" : "[15] Benchmark price",
+  "time" : {
+    "start" : 1606106050975,
+    "stop" : 1606106060339,
+    "duration" : 9364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b59b4c4cbd3e7f8",
+  "name" : "[4] Benchmark price",
+  "time" : {
+    "start" : 1606105631082,
+    "stop" : 1606105637760,
+    "duration" : 6678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da5ca1858ebd016",
+  "name" : "[6] Execution price volatility",
+  "time" : {
+    "start" : 1606105766083,
+    "stop" : 1606105770938,
+    "duration" : 4855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e1da078e5da39a4",
+  "name" : "[8] Participation rate",
+  "time" : {
+    "start" : 1606105686625,
+    "stop" : 1606105691438,
+    "duration" : 4813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37f9c34594ee8716",
+  "name" : "[12] Currency code",
+  "time" : {
+    "start" : 1606105706663,
+    "stop" : 1606105711436,
+    "duration" : 4773
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17b1d040297c4c97",
+  "name" : "1 bar",
+  "time" : {
+    "start" : 1606105639727,
+    "stop" : 1606105639963,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf60f9dad8e911ab",
+  "name" : "[1] Avg fill price",
+  "time" : {
+    "start" : 1606105652919,
+    "stop" : 1606105657703,
+    "duration" : 4784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df628940bac09476",
+  "name" : "[4] Price",
+  "time" : {
+    "start" : 1606105756150,
+    "stop" : 1606105761014,
+    "duration" : 4864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9604dff8750256c7",
+  "name" : "[3] Num of executions",
+  "time" : {
+    "start" : 1606105662470,
+    "stop" : 1606105667267,
+    "duration" : 4797
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "145909cd60391f4",
+  "name" : "[9] Shortfall",
+  "time" : {
+    "start" : 1606105691442,
+    "stop" : 1606105696496,
+    "duration" : 5054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b92c670ba46a27e4",
+  "name" : "testBenchmarkSelector()",
+  "time" : {
+    "start" : 1606105646496,
+    "stop" : 1606105646551,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "848eb21397446698",
+  "name" : "[10] Multiplier",
+  "time" : {
+    "start" : 1606105696500,
+    "stop" : 1606105701591,
+    "duration" : 5091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4eabaf68c39b76a",
+  "name" : "testColumnAppearColumnFilter()",
+  "time" : {
+    "start" : 1606105581494,
+    "stop" : 1606105587229,
+    "duration" : 5735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fce1d523f79d547b",
+  "name" : "[5] Size",
+  "time" : {
+    "start" : 1606105761017,
+    "stop" : 1606105766079,
+    "duration" : 5062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd5e75a1850ddba7",
+  "name" : "testColumnAppearFiltersButton()",
+  "time" : {
+    "start" : 1606105565840,
+    "stop" : 1606105571428,
+    "duration" : 5588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "275c30055893ba57",
+  "name" : "[15] Benchmark price",
+  "time" : {
+    "start" : 1606105810917,
+    "stop" : 1606105815759,
+    "duration" : 4842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4159e5a0fb765f32",
+  "name" : "[8] Participation rate",
+  "time" : {
+    "start" : 1606105776088,
+    "stop" : 1606105781141,
+    "duration" : 5053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "922bdc39d165b068",
+  "name" : "[15] Benchmark price",
+  "time" : {
+    "start" : 1606105721623,
+    "stop" : 1606105726427,
+    "duration" : 4804
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77b0a046ce9493e4",
+  "name" : "[17] Price imp. (amount)",
+  "time" : {
+    "start" : 1606105820590,
+    "stop" : 1606105825421,
+    "duration" : 4831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe9bb3e214b5968",
+  "name" : "[6] Execution price volatility",
+  "time" : {
+    "start" : 1606105676796,
+    "stop" : 1606105681597,
+    "duration" : 4801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57f1fb35096bce86",
+  "name" : "[2] Exec size",
+  "time" : {
+    "start" : 1606105657708,
+    "stop" : 1606105662466,
+    "duration" : 4758
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb6eb14a2d7ac148",
+  "name" : "[12] Currency code",
+  "time" : {
+    "start" : 1606105885399,
+    "stop" : 1606105890252,
+    "duration" : 4853
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f662e1b0ee32111",
+  "name" : "[6] Execution price volatility",
+  "time" : {
+    "start" : 1606105855580,
+    "stop" : 1606105860809,
+    "duration" : 5229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3e5fc6b079e6c2e",
+  "name" : "[9] Shortfall",
+  "time" : {
+    "start" : 1606105781146,
+    "stop" : 1606105785955,
+    "duration" : 4809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b19b47f8fd981856",
+  "name" : "[6] Execution price volatility",
+  "time" : {
+    "start" : 1606105966195,
+    "stop" : 1606105975568,
+    "duration" : 9373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5726ed76742914a9",
+  "name" : "[10] Multiplier",
+  "time" : {
+    "start" : 1606105875728,
+    "stop" : 1606105880553,
+    "duration" : 4825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "825931d6eaa39362",
+  "name" : "[11] Tick size",
+  "time" : {
+    "start" : 1606106013632,
+    "stop" : 1606106022991,
+    "duration" : 9359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd97819f8ffa0c7d",
+  "name" : "[16] Price imp. (ticks)",
+  "time" : {
+    "start" : 1606105815763,
+    "stop" : 1606105820586,
+    "duration" : 4823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f0e32ea6fb6654e",
+  "name" : "[13] Sequence number",
+  "time" : {
+    "start" : 1606105711440,
+    "stop" : 1606105716570,
+    "duration" : 5130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db917c6636fe0acc",
+  "name" : "[3] Num of executions",
+  "time" : {
+    "start" : 1606105840824,
+    "stop" : 1606105845611,
+    "duration" : 4787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20fa4c6b8165cb0c",
+  "name" : "[17] Price imp. (amount)",
+  "time" : {
+    "start" : 1606105909608,
+    "stop" : 1606105914390,
+    "duration" : 4782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce8a8fcbc50064c9",
+  "name" : "testCorrectLogin()",
+  "time" : {
+    "start" : 1606105641797,
+    "stop" : 1606105646358,
+    "duration" : 4561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebd01efc1c76bbad",
+  "name" : "[8] Participation rate",
+  "time" : {
+    "start" : 1606105985233,
+    "stop" : 1606105994575,
+    "duration" : 9342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e5fa339417e56dd",
+  "name" : "[12] Currency code",
+  "time" : {
+    "start" : 1606106022994,
+    "stop" : 1606106032301,
+    "duration" : 9307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbb506a6c97bd2dd",
+  "name" : "[10] Multiplier",
+  "time" : {
+    "start" : 1606105785959,
+    "stop" : 1606105790844,
+    "duration" : 4885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "688807a9efc83660",
+  "name" : "[17] Price imp. (amount)",
+  "time" : {
+    "start" : 1606105731235,
+    "stop" : 1606105736010,
+    "duration" : 4775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9243a023ebadcae8",
+  "name" : "Hard Api Test",
+  "time" : {
+    "start" : 1606107760115,
+    "stop" : 1606107761111,
+    "duration" : 996
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d88800230a3f78d",
+  "name" : "[16] Price imp. (ticks)",
+  "time" : {
+    "start" : 1606106060343,
+    "stop" : 1606106069660,
+    "duration" : 9317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77e0de6dc69e1837",
+  "name" : "[3] Num of executions",
+  "time" : {
+    "start" : 1606105938114,
+    "stop" : 1606105947470,
+    "duration" : 9356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c669c093f1411db9",
+  "name" : "testColumnDisappearFiltersButton()",
+  "time" : {
+    "start" : 1606105571434,
+    "stop" : 1606105581488,
+    "duration" : 10054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a532de4595e5baf",
+  "name" : "[7] Information ratio",
+  "time" : {
+    "start" : 1606105681602,
+    "stop" : 1606105686616,
+    "duration" : 5014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a5c919f4cbe375",
+  "name" : "[7] Information ratio",
+  "time" : {
+    "start" : 1606105770941,
+    "stop" : 1606105776084,
+    "duration" : 5143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9ad81b3dfe8391f",
+  "name" : "[5] Size",
+  "time" : {
+    "start" : 1606105850733,
+    "stop" : 1606105855577,
+    "duration" : 4844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c711fe69195cd3df",
+  "name" : "[11] Tick size",
+  "time" : {
+    "start" : 1606105880556,
+    "stop" : 1606105885395,
+    "duration" : 4839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8357e0ce7b433e87",
+  "name" : "[12] Currency code",
+  "time" : {
+    "start" : 1606105795697,
+    "stop" : 1606105800880,
+    "duration" : 5183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96d77d9de8e291fa",
+  "name" : "[2] Exec size",
+  "time" : {
+    "start" : 1606105928704,
+    "stop" : 1606105938109,
+    "duration" : 9405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6efd1e6acaa68c03",
+  "name" : "[4] Price",
+  "time" : {
+    "start" : 1606105845614,
+    "stop" : 1606105850729,
+    "duration" : 5115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edda484cd05a7c4c",
+  "name" : "4 bar",
+  "time" : {
+    "start" : 1606105640448,
+    "stop" : 1606105640653,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2511b7accd4b2c10",
+  "name" : "[14] Db sequence number",
+  "time" : {
+    "start" : 1606105716578,
+    "stop" : 1606105721615,
+    "duration" : 5037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "877e16e373cc79a6",
+  "name" : "[3] Num of executions",
+  "time" : {
+    "start" : 1606105751005,
+    "stop" : 1606105756144,
+    "duration" : 5139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8e886db216c4df3",
+  "name" : "testSettingsButton()",
+  "time" : {
+    "start" : 1606105646555,
+    "stop" : 1606105646608,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36517e9c1d05e5d2",
+  "name" : "[8] Participation rate",
+  "time" : {
+    "start" : 1606105865999,
+    "stop" : 1606105870882,
+    "duration" : 4883
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65f27bca248e2aa8",
+  "name" : "[14] Db sequence number",
+  "time" : {
+    "start" : 1606106041644,
+    "stop" : 1606106050972,
+    "duration" : 9328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db442349e4b0f907",
+  "name" : "[17] Price imp. (amount)",
+  "time" : {
+    "start" : 1606106069664,
+    "stop" : 1606106079054,
+    "duration" : 9390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23ef35cc3353e53d",
+  "name" : "[13] Sequence number",
+  "time" : {
+    "start" : 1606105800884,
+    "stop" : 1606105805727,
+    "duration" : 4843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "258793f3ea1c015d",
+  "name" : "[16] Price imp. (ticks)",
+  "time" : {
+    "start" : 1606105904668,
+    "stop" : 1606105909604,
+    "duration" : 4936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5417740a65ca0714",
+  "name" : "3 bar",
+  "time" : {
+    "start" : 1606105640192,
+    "stop" : 1606105640441,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1bfd500af8bf20d",
+  "name" : "[2] Exec size",
+  "time" : {
+    "start" : 1606105746097,
+    "stop" : 1606105751001,
+    "duration" : 4904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3edda7d6988a1509",
+  "name" : "[9] Shortfall",
+  "time" : {
+    "start" : 1606105994579,
+    "stop" : 1606106004265,
+    "duration" : 9686
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd6814d05f6b1d46",
+  "name" : "[3] Num of executions",
+  "time" : {
+    "start" : 1606105619357,
+    "stop" : 1606105631077,
+    "duration" : 11720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ace7604d751fcba2",
+  "name" : "testColumnDisappearColumnFilter()",
+  "time" : {
+    "start" : 1606105544615,
+    "stop" : 1606105565763,
+    "duration" : 21148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbc1c836c129787d",
+  "name" : "[15] Benchmark price",
+  "time" : {
+    "start" : 1606105899836,
+    "stop" : 1606105904661,
+    "duration" : 4825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47f9f8c242f906df",
+  "name" : "[1] Avg fill price",
+  "time" : {
+    "start" : 1606105740952,
+    "stop" : 1606105746092,
+    "duration" : 5140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d68d65143b8ab206",
+  "name" : "testToolbarElements()",
+  "time" : {
+    "start" : 1606105646369,
+    "stop" : 1606105646493,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bc2f75f13c57075",
+  "name" : "[1] Avg fill price",
+  "time" : {
+    "start" : 1606105919356,
+    "stop" : 1606105928700,
+    "duration" : 9344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5824dfedf031e13",
+  "name" : "[1] Avg fill price",
+  "time" : {
+    "start" : 1606105830424,
+    "stop" : 1606105835633,
+    "duration" : 5209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28d08b3f577cd96f",
+  "name" : "[11] Tick size",
+  "time" : {
+    "start" : 1606105790849,
+    "stop" : 1606105795693,
+    "duration" : 4844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f6d086755e66cf5",
+  "name" : "testColumnAppearColumnsButton()",
+  "time" : {
+    "start" : 1606105587234,
+    "stop" : 1606105592805,
+    "duration" : 5571
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90432c045dcdae60",
+  "name" : "[5] Size",
+  "time" : {
+    "start" : 1606105956835,
+    "stop" : 1606105966191,
+    "duration" : 9356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb3dff55e90df7c6",
+  "name" : "[14] Db sequence number",
+  "time" : {
+    "start" : 1606105895033,
+    "stop" : 1606105899832,
+    "duration" : 4799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1358f02d7a8f2d1",
+  "name" : "[11] Tick size",
+  "time" : {
+    "start" : 1606105701598,
+    "stop" : 1606105706655,
+    "duration" : 5057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d346cd164b67aff",
+  "name" : "[5] Size",
+  "time" : {
+    "start" : 1606105672020,
+    "stop" : 1606105676792,
+    "duration" : 4772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c76f841de674c910",
+  "name" : "[9] Shortfall",
+  "time" : {
+    "start" : 1606105870887,
+    "stop" : 1606105875724,
+    "duration" : 4837
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9218222f49869ff7",
+  "name" : "[4] Price",
+  "time" : {
+    "start" : 1606105947473,
+    "stop" : 1606105956831,
+    "duration" : 9358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,80 @@
+{
+  "uid" : "6efd1e6acaa68c03",
+  "name" : "[4] Price",
+  "fullName" : "academy.Tests.ScatterPlotTest.test_Y_AxisReload",
+  "historyId" : "7f691ba560da8ac45a1207137df47e2b",
+  "time" : {
+    "start" : 1606105845614,
+    "stop" : 1606105850729,
+    "duration" : 5115
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "9188@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.ScatterPlotTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.ScatterPlotTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_Y_AxisReload"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.ScatterPlotTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed tests",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4c7e2d87481b0cb7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606105845614,
+          "stop" : 1606105850729,
+          "duration" : 5115
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6efd1e6acaa68c03.json",
+  "parameterValues" : [ ]
+}

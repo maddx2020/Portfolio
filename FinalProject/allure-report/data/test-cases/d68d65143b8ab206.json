@@ -1,0 +1,80 @@
+{
+  "uid" : "d68d65143b8ab206",
+  "name" : "testToolbarElements()",
+  "fullName" : "academy.Tests.LoginTest.testToolbarElements",
+  "historyId" : "72d9e7b0fe4eb115f656da23229b5640",
+  "time" : {
+    "start" : 1606105646369,
+    "stop" : 1606105646493,
+    "duration" : 124
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "9188@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testToolbarElements"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.LoginTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed tests",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6546a07dbbbc8031",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606105646369,
+          "stop" : 1606105646493,
+          "duration" : 124
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d68d65143b8ab206.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "c9f406e3678743cc",
+  "name" : "[1] Type",
+  "fullName" : "academy.Tests.GridSortTest.testColumnSort",
+  "historyId" : "1bc19ee454b7772c6c33140e32cb2635",
+  "time" : {
+    "start" : 1606105604719,
+    "stop" : 1606105612307,
+    "duration" : 7588
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Madd-machine"
+  }, {
+    "name" : "thread",
+    "value" : "9188@Madd-machine.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "academy.Tests.GridSortTest"
+  }, {
+    "name" : "testClass",
+    "value" : "academy.Tests.GridSortTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testColumnSort"
+  }, {
+    "name" : "suite",
+    "value" : "academy.Tests.GridSortTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed tests",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6d8299dde1f0e1d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606105604719,
+          "stop" : 1606105612307,
+          "duration" : 7588
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c9f406e3678743cc.json",
+  "parameterValues" : [ ]
+}
