@@ -1,4 +1,4 @@
-package academy.Helpers;
+package academy.helpers;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

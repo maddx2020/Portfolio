@@ -1,9 +1,9 @@
-package academy.Tests;
+package academy.tests;
 
-import academy.Helpers.CredConnectionApi;
-import academy.Pages.LoginPage;
-import academy.Pages.PageFactory;
-import academy.Pages.SummaryPage;
+import academy.helpers.CredConnectionApi;
+import academy.pages.LoginPage;
+import academy.pages.PageFactory;
+import academy.pages.SummaryPage;
 import org.apache.http.Header;
 import org.apache.http.HttpResponse;
 import org.junit.jupiter.api.AfterAll;

@@ -1,8 +1,8 @@
-package academy.Tests;
+package academy.tests;
 
-import academy.Pages.HistogramPage;
-import academy.Pages.LoginPage;
-import academy.Pages.PageFactory;
+import academy.pages.HistogramPage;
+import academy.pages.LoginPage;
+import academy.pages.PageFactory;
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.AfterAll;

@@ -1,4 +1,4 @@
-package academy.Pages;
+package academy.pages;
 
 public class PageFactory {
 

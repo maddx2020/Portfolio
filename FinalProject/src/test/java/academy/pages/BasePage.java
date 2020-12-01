@@ -1,8 +1,8 @@
-package academy.Pages;
+package academy.pages;
 
-import academy.Elements.ApplicationToolbar;
-import academy.Elements.AttributeDropDown;
-import academy.Elements.GridColumnElements;
+import academy.elements.ApplicationToolbar;
+import academy.elements.AttributeDropDown;
+import academy.elements.GridColumnElements;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.ex.ElementNotFound;
 import com.codeborne.selenide.ex.ElementShould;

@@ -1,4 +1,4 @@
-package academy.Elements;
+package academy.elements;
 
 import static com.codeborne.selenide.Selenide.$x;
 

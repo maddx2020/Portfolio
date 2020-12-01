@@ -1,8 +1,8 @@
-package academy.Tests;
+package academy.tests;
 
-import academy.Pages.GridPage;
-import academy.Pages.LoginPage;
-import academy.Pages.PageFactory;
+import academy.pages.GridPage;
+import academy.pages.LoginPage;
+import academy.pages.PageFactory;
 import org.junit.jupiter.api.*;
 
 import java.util.Arrays;

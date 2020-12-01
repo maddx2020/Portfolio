@@ -1,4 +1,4 @@
-package academy.Pages;
+package academy.pages;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;

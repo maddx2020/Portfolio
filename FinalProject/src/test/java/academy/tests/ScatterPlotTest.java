@@ -1,8 +1,8 @@
-package academy.Tests;
+package academy.tests;
 
-import academy.Pages.LoginPage;
-import academy.Pages.PageFactory;
-import academy.Pages.ScatterPlotPage;
+import academy.pages.LoginPage;
+import academy.pages.PageFactory;
+import academy.pages.ScatterPlotPage;
 import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
@@ -19,6 +19,7 @@ public class ScatterPlotTest extends Assertions {
     private static LoginPage loginPage;
     private static ScatterPlotPage scatterPlot;
     private static String previousValue;
+    private static String presentValue;
 
     @BeforeAll
     public static void init() {
@@ -82,9 +83,12 @@ public class ScatterPlotTest extends Assertions {
         if (attribute.equals("Avg fill price")) {
             previousValue = scatterPlot.get_X_LastDigit();
         } else {
-            String presentValue = scatterPlot.get_X_LastDigit();
-            assertNotEquals(previousValue, presentValue);
-            previousValue = presentValue;
+            try {
+                presentValue = scatterPlot.get_X_LastDigit();
+                assertNotEquals(previousValue, presentValue);
+            } finally {
+                previousValue = presentValue;
+            }
         }
     }
 
@@ -99,9 +103,12 @@ public class ScatterPlotTest extends Assertions {
         if (attribute.equals("Avg fill price")) {
             previousValue = scatterPlot.get_Y_LastDigit();
         } else {
-            String presentValue = scatterPlot.get_Y_LastDigit();
-            assertNotEquals(previousValue, presentValue);
-            previousValue = presentValue;
+            try {
+                presentValue = scatterPlot.get_Y_LastDigit();
+                assertNotEquals(previousValue, presentValue);
+            } finally {
+                previousValue = presentValue;
+            }
         }
     }
 }

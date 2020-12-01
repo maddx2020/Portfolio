@@ -1,4 +1,4 @@
-package academy.Helpers;
+package academy.helpers;
 
 import org.apache.http.Header;
 import org.apache.http.HttpResponse;

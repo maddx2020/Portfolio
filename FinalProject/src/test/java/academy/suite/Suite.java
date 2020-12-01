@@ -1,4 +1,4 @@
-package academy.Suite;
+package academy.suite;
 
 
 import org.junit.platform.runner.JUnitPlatform;

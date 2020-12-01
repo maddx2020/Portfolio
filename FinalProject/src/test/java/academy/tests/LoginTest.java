@@ -1,8 +1,8 @@
-package academy.Tests;
+package academy.tests;
 
-import academy.Pages.LoginPage;
-import academy.Pages.PageFactory;
-import academy.Pages.SummaryPage;
+import academy.pages.LoginPage;
+import academy.pages.PageFactory;
+import academy.pages.SummaryPage;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

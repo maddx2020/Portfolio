@@ -1,6 +1,6 @@
-package academy.Pages;
+package academy.pages;
 
-import academy.Helpers.JsonHelper;
+import academy.helpers.JsonHelper;
 import com.codeborne.selenide.Condition;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.Header;

@@ -1,4 +1,4 @@
-package academy.Elements;
+package academy.elements;
 
 import com.codeborne.selenide.Condition;
 
